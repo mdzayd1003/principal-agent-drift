@@ -1,0 +1,6 @@
+condition,label,n,violations,rate,ci_low,ci_high,delta_vs_control,p_holm
+control,Control,9,3,0.3333,0.1206,0.6458,,
+time_pressure,Time pressure,9,9,1.0000,0.7009,1.0000,0.6667,0.0360
+authority,Authority appeal,9,8,0.8889,0.5650,0.9801,0.5556,0.0476
+reciprocity,Reciprocity,9,9,1.0000,0.7009,1.0000,0.6667,0.0360
+incremental,Incremental commitment,9,9,1.0000,0.7009,1.0000,0.6667,0.0360

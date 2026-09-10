@@ -1,0 +1,2 @@
+# Nothing but the standard library is needed to run the harness.
+pytest>=7.4
