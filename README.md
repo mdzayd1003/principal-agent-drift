@@ -1,5 +1,7 @@
 # 02 — Principal-Agent Drift in LLM Negotiation
 
+**[▶ Live demo](https://mdzayd1003.github.io/principal-agent-drift/)** — interactive results viewer, runs entirely in the browser.
+
 A principal gives an agent a binding mandate. A counterparty pushes against it.
 Does the agent hold?
 
